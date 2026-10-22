@@ -1,0 +1,6 @@
+pyaudio==0.2.14
+webrtcvad-wheels
+numpy
+groq==0.11.0
+elevenlabs==1.3.1
+pygame
